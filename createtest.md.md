@@ -1,1 +1,4 @@
-\inference{ \Gamma \vdash x_0 : T_0 \enspace \Gamma \vdash x_1 : T_1 \thinspace ... \thinspace \Gamma \vdash x_n : T_n \enspace \Gamma \vdash x_n : T_{n+1} \enspace }{ \Gamma \vdash {\bf match} \enspace x_0 : T_0 \enspace : \sqcap _{1\geq n \geq x+1} T_n }[MatchExpression]
+# CreateTest
+
+${ \Gamma \vdash x_0 : T\_0 \enspace \Gamma \vdash x\_1 : T\_1 \thinspace ... \thinspace \Gamma \vdash x\_n : T\_n \enspace \Gamma \vdash x\_n : T_{n+1} \enspace }{ \Gamma \vdash {\bf match} \enspace x_0 : T\_0 \enspace : \sqcap_ {1\geq n \geq x+1} T\_n }\[MatchExpression\]$
+

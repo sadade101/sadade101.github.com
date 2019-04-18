@@ -7,7 +7,6 @@ a = b
 $$
 
 $$
-\widetilde{ab}   \sqrt{ab}  \frac{\partial^nf}{\partial x^n}
+{ \Gamma \vdash x_0 : T_0 \enspace \Gamma \vdash x_1 : T_1 \thinspace ... \thinspace \Gamma \vdash x_n : T_n \enspace \Gamma \vdash x_n : T_{n+1} \enspace }{ \Gamma \vdash {\bf match} \enspace x_0 : T_0 \enspace : \sqcap _{1\geq n \geq x+1} T_n }[MatchExpression]
 $$
 
-Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$

@@ -7,6 +7,6 @@ a = b
 $$
 
 $$
-a = b
+\widetilde{ab}   \sqrt{ab}  \frac{\partial^nf}{\partial x^n}
 $$
 

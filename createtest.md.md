@@ -1,4 +1,4 @@
-# CreateTest.md
+# CreateTest
 
 Created on gitbook
 
